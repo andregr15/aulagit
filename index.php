@@ -1,3 +1,4 @@
 <?php
-	echo "Olá mundo PHP";
+	echo "Aula git e github code.education";
+	echo "Seja bem vindo";
 ?>
